@@ -6,5 +6,6 @@ echo "második";
 echo "harmadik";
 
 echo "asdasdasd";
+echo "semmi";
 
 ?>

@@ -7,5 +7,6 @@ echo "harmadik";
 
 echo "asdasdasd";
 echo "semmi";
+echo "itt sincs";
 
 ?>
